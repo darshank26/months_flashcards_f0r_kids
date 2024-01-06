@@ -147,7 +147,7 @@ class _HomeScreenState extends State<HomeScreen> {
         ],
         centerTitle: true,
         backgroundColor: kback,
-        title: Text("Planets for Kids",
+        title: Text("Months for Kids",
           style: GoogleFonts.mochiyPopOne(textStyle: TextStyle(fontSize: 20,color: kprimarycolor,fontWeight: FontWeight.w600,letterSpacing: 0.5))
           ,),),
       body:  Padding(

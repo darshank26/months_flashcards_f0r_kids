@@ -2,7 +2,7 @@
     <application
         android:label="months_flashcards_f0r_kids"
         android:name="${applicationName}"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@mipmap/ic_launcher_round">
         <activity
             android:name=".MainActivity"
             android:exported="true"
