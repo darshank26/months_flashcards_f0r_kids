@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "69511527247",
+    "project_id": "months-flashcards-for-kids",
+    "storage_bucket": "months-flashcards-for-kids.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69511527247:android:2b15bddbf6461ae2e2a33a",
+        "android_client_info": {
+          "package_name": "com.darshankomu.months_flashcards_f0r_kids"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFcfQpKqtIvYH08q7pbKcQdZJIrksMcVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
